@@ -27,7 +27,7 @@ The prompts were designed to achieve the following:
 
 ## 🛠️ Tools Used
 - **AI Tool:** Google Gemini 3.1 Pro (used to design the prompts and generate the copy)
-- **Proposed Website Builders:** Lovable (https://lovable.dev) or Framer AI (https://www.framer.com/ai)
+- **Website Builder:** Lovable (https://lovable.dev)
 
 ---
 *This project was completed as part of an AI Prompt Engineering task focusing on local business value generation.*
