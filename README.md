@@ -4,7 +4,7 @@ Welcome to my project for generating high-converting website copy using AI! This
 
 ## 🏢 The Chosen Business
 
-- **Name:** One Piece Cafe
+- **Name:** One Piece Cafe (Note:Concept Project)
 - **Type:** Anime Themed Cafe & Restaurant
 - **Location:** Anna Nagar, Chennai
 - **Target Audience:** Anime fans, youth, families, and food enthusiasts seeking an experiential dining experience.
